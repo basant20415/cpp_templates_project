@@ -43,19 +43,7 @@ A custom behavior for subtraction is demonstrated through **template specializat
 ---
 ## 🗃️ File Structure
 
-.
-├── build/                  # Compiled binaries (created after build)
-
-├── includes/               # Header files
-
-│   └── library.hpp         # Core template numeric library
-
-├── src/                    # Source files
-
-│   └── main.cpp            # Main program and usage examples
-
-└── CMakeLists.txt          # CMake build configuration
-
+<img width="657" height="190" alt="image" src="https://github.com/user-attachments/assets/14e4e7fd-81db-4bea-bd83-fd6d84f2e9d2" />
 
 ---
 
