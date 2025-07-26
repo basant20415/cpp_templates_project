@@ -1,0 +1,3 @@
+/home/ubuntu/cpp_templates/templates_project/build/CMakeFiles/PRINT.dir
+/home/ubuntu/cpp_templates/templates_project/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/cpp_templates/templates_project/build/CMakeFiles/rebuild_cache.dir
