@@ -45,10 +45,15 @@ A custom behavior for subtraction is demonstrated through **template specializat
 
 .
 ├── build/                  # Compiled binaries (created after build)
+
 ├── includes/               # Header files
+
 │   └── library.hpp         # Core template numeric library
+
 ├── src/                    # Source files
+
 │   └── main.cpp            # Main program and usage examples
+
 └── CMakeLists.txt          # CMake build configuration
 
 
