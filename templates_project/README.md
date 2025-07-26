@@ -40,25 +40,18 @@ By utilizing `std::is_arithmetic` and `std::common_type`, the library ensures on
 
 A custom behavior for subtraction is demonstrated through **template specialization** of the `subtraction<T>` class. While general arithmetic types (like `int`, `float`, etc.) use the default template, a custom implementation is defined for `std::string`.
 
-### 📌 General Template for Arithmetic Types
-
-```cpp
-template <typename T>
-class subtraction {
-public:
-    auto sub(const T& a, const T& b) {
-        auto s = a - b;
-        return s;
-    }
-};
-
+---
 ## 🗃️ File Structure
 
 ![alt text](image.png)
 
+---
+
 ## 🛠️ Requirements
 
-- C++17 
+- C++17
+
+ --- 
 
 ## 📚 Concepts Demonstrated
 
@@ -73,6 +66,8 @@ public:
 - Modular arithmetic for overflow-safe operations
 
 - Efficient algorithm implementation (Fast Exponentiation, Sieve of Eratosthenes)
+
+---
 
 ## 📝 License
 
